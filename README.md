@@ -1,2 +1,2 @@
 # Flashcard
-I love John!
+
